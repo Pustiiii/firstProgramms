@@ -50,6 +50,7 @@ if (operatorDecision == "+")
         }
     }
 }
+
 if (operatorDecision == "-")
 {
     if (decision == "n")
@@ -120,6 +121,7 @@ if (operatorDecision == "*")
         }
     }
 }
+
 if (operatorDecision == "/")
 {
     if (decision == "n")
